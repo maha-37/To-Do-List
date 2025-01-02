@@ -111,7 +111,7 @@ border-bottom: 2px dashed #b76e70;
 }
 .checked::before{
   content: "";
-  background-image: url("/img/icons8-check-50.png");
+  background-image: url("img/icons8-check-50.png");
   position: absolute;
   right: 0;
   background-size: contain;
